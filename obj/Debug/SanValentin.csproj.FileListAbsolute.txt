@@ -1,0 +1,11 @@
+C:\Users\cesar\source\repos\SanValentin\bin\Debug\SanValentin.exe.config
+C:\Users\cesar\source\repos\SanValentin\bin\Debug\SanValentin.exe
+C:\Users\cesar\source\repos\SanValentin\bin\Debug\SanValentin.pdb
+C:\Users\cesar\source\repos\SanValentin\obj\Debug\SanValentin.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\SanValentin\obj\Debug\SanValentin.Form1.resources
+C:\Users\cesar\source\repos\SanValentin\obj\Debug\SanValentin.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\SanValentin\obj\Debug\SanValentin.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\SanValentin\obj\Debug\SanValentin.exe
+C:\Users\cesar\source\repos\SanValentin\obj\Debug\SanValentin.pdb
+C:\Users\cesar\source\repos\SanValentin\obj\Debug\SanValentin.Acepto.resources
+C:\Users\cesar\source\repos\SanValentin\obj\Debug\SanValentin.Rechazo.resources
